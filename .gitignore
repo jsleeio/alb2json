@@ -1,0 +1,5 @@
+# current binaries
+/alb2json
+
+# goreleaser
+/dist
